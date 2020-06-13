@@ -53,7 +53,6 @@ void recursive_type(const char *string)
 int main()
 {
 
-    int stop;
     char *message = "Typed Message";
 
     if(ITERATIVE)
