@@ -54,7 +54,7 @@ int main()
 {
 
     int stop;
-    char *message = "3. Thanks to some handy botching skills from Milosz it allowed us to get the messages data into formattable form in excel. Facebook allows you to download your information... Milosz took this .json file and convereted it into something suitable. It's explaing just how in the comment of his code.\n\nNext, you can see the raw data that we used by going to the 'Data' folder.\n\nPress Enter to exit...";
+    char *message = "Typed Message";
 
     if(ITERATIVE)
     {
