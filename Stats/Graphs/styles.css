@@ -1,0 +1,24 @@
+* {
+    font-family: monospace;
+    font-size:40px;
+    margin: 0px;
+    text-align: center;
+}
+
+hr{
+    border: 5px solid black;
+}
+
+.smallGraph {
+    margin: 0;
+    padding-left: 5%;
+    padding-top: 10px;
+    width: 40%;
+}
+
+.bigGraph{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+    width: 90%;
+}

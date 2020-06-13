@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Craig Lyons"
+    },
+    {
+      "name": "Milosz P Plichta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Milosz P Plichta",
+      "timestamp_ms": 1588757582592,
+      "content": "Yeah I\u00e2\u0080\u0099ll give it a shot thanks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Craig Lyons"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Craig Lyons",
+      "timestamp_ms": 1588757497059,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Craig Lyons",
+      "timestamp_ms": 1588757492200,
+      "content": "I do this first stretch thing every day and it might help what you suffer from idl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Craig Lyons",
+      "timestamp_ms": 1588757471442,
+      "content": "https://youtu.be/SYr6lbx68n8?t=129",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Craig Lyons",
+      "timestamp_ms": 1588710954263,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Milosz P Plichta",
+      "timestamp_ms": 1588608471610,
+      "content": "Only c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Milosz P Plichta",
+      "timestamp_ms": 1588608462314,
+      "content": "Noo",
+      "type": "Generic"
+    }
+}
