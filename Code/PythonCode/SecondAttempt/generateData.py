@@ -26,7 +26,7 @@ for message in data['messages']:
     date = datetime.datetime.fromtimestamp(message['timestamp_ms']/1000)
     outputFile.write(message['sender_name'].encode('latin1').decode('utf8') + '| ')
     if 'content' in message:
-        outputFile.write('| ')
+        outputFile.write(message['content'].encode('latin1').decode('utf8') + '|| ')
     elif 'photos' in message:
         outputFile.write('| ')
     else:
